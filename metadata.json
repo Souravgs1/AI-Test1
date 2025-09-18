@@ -1,0 +1,5 @@
+{
+  "name": "Copy of FAQ Chatbot",
+  "description": "An intelligent FAQ chatbot powered by the Gemini API. It answers user questions based on a predefined set of information, providing a seamless and interactive support experience.",
+  "requestFramePermissions": []
+}
